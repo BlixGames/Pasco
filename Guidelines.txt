@@ -1,0 +1,5 @@
+Pasco Project
+
+The Pasco Project is a project dedicated to creating an open source lightweight yet extensive browser that enables easy and private use of the internet. We are working on Bookmarks. Please help.
+
+This project is licensed under the CC BY 2.0 License
